@@ -1,0 +1,12 @@
+{
+  "name": "request-promise-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kuromoka/request-promise-test.git",
+  "author": "kuromoka <kuromokapb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
